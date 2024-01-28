@@ -22,7 +22,7 @@ This project is a web-based implementation of the classic Rock, Paper, Scissors 
 
 ## How to Play
 
-1. Open the `index.html` file in a web browser.
+1. Open the `rps.html` file in a web browser.
 2. Click on the "Rock," "Paper," or "Scissors" button to make your choice.
 3. The computer will randomly choose its option.
 4. The winner of the round will be declared on the screen.
