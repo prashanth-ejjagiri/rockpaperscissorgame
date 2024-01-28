@@ -8,13 +8,10 @@ This is a simple Rock, Paper, Scissors game implemented using HTML, CSS, and Jav
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
-This project is a web-based implementation of the classic Rock, Paper, Scissors game. It allows users to play against the computer in a simple and interactive way.
+This project is a web-based implementation of the classic Rock, Paper, Scissors game. It allows users to play against the computer simply and interactively.
 
 ## Features
 
@@ -36,3 +33,5 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/prashanth-ejjagiri/rockpaperscissorgame.git
+
+
